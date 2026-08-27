@@ -11,11 +11,12 @@ zkdeal lets an application define its participants, permitted inputs, ordering p
 - [Technology brief](https://zkdeal.org/zkdeal-vs-zk-l2-technology-brief.pdf)
 - [Repository catalog](https://zkdeal.org/repositories/)
 - [Hands-on tutorials](https://zkdeal.org/blog/)
-- [Docker images](https://zkdeal.org/docker-images/) Â· [Docker Hub](https://hub.docker.com/u/zkdeal)
+- [Docker images](https://zkdeal.org/docker-images/)
+- [Docker Hub](https://hub.docker.com/u/zkdeal)
 
 ## Core repositories
 
-- [Examples](https://github.com/zkdeal/zkdeal-examples)  auctions, shops, private card play, FIFO, and commitâ€“reveal ordering
+- [Examples](https://github.com/zkdeal/zkdeal-examples)  auctions, shops, private card play, FIFO, and commit reveal ordering
 - [Node](https://github.com/zkdeal/zkdeal-node)  execution, networking, proving, settlement, and recovery
 - [Protocol](https://github.com/zkdeal/zkdeal-protocol)  Ethereum verification, accounting, and asset movement
 - [Testing](https://github.com/zkdeal/zkdeal-testing)  local Ethereum, Blockscout, coordinator, and CUDA prover stack
