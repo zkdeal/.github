@@ -11,7 +11,7 @@ zkdeal lets an application define its participants, permitted inputs, ordering p
 - [Technology brief](https://zkdeal.org/zkdeal-vs-zk-l2-technology-brief.pdf)
 - [Repository catalog](https://zkdeal.org/repositories/)
 - [Hands-on tutorials](https://zkdeal.org/blog/)
-- [Docker images](https://zkdeal.org/docker-images/)0
+- [Docker images](https://zkdeal.org/docker-images/)
 - [Docker Hub](https://hub.docker.com/u/zkdeal)
 
 ## Core repositories
