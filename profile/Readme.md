@@ -42,4 +42,4 @@ owner repositories rather than that deployment repository itself.
 - [Testing](https://github.com/zkdeal/zkdeal-testing)  local Ethereum, Blockscout, coordinator, and CUDA prover stack
 - [Cloud deployment](https://github.com/zkdeal/zkdeal-cloud-deployer-infra)  Compose, Kubernetes, observability, backup, and failover
 
-> **Project status:** zkdeal is not a general-purpose L2. There is no public testnet or external security review yet. Repository licenses vary; check each repository before use.
+> **Project status:** zkdeal is not a general-purpose L2. There is no public testnet or external security review yet. First-party repositories and packages are MIT licensed; vendored dependencies retain their upstream licenses.
